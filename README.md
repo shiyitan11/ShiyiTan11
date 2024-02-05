@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShiyiTan0104
+- 👋 Hi, I’m @ShiyiTan11
 - 👀 I’m interested in the use of technology in translation and interpreting & human-technology interaction.
 - 🌱 I’m currently learning Python & everything I want to learn.
 
