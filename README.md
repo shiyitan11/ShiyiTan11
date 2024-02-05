@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShiyiTan0104
-- 👀 I’m interested in technological application in translation and interpreting studies.
+- 👀 I’m interested in the use of technology in translation and interpreting and human-technology interaction.
 - 🌱 I’m currently learning everything I want to learn.
 - 📫 How to reach me: lilytanshiyi@gmail.com
 
